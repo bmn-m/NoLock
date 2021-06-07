@@ -7,3 +7,9 @@ Howto:
 
 1. Download
 2. Run with Powershell
+
+Whats is this window opening as i run NoLock?
+
+![Screenshot](screenshot.png)
+
+It's a little control window that tells you when it last made sure your screen saver didn't turn on.
